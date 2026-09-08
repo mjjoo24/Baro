@@ -1,0 +1,9 @@
+.build/
+build/
+*.o
+*.d
+*.swiftdeps
+*.swiftdeps~
+.DS_Store
+.swiftpm/
+xcuserdata/
